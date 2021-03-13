@@ -51,6 +51,13 @@
 }
 /*navbar design ends here*/
 
+/*cv section start*/
+.cv-buttom{
+	margin: 10px auto;
+}
+
+/*cv section ends*/
+
 /*profile design start here*/
 .profile-desc h1{
 	margin: 0 auto;
